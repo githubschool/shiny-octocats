@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: August 28-29, 2018
+- Facilitator: @beardofedu
 
 ## Talk to Us!!
 
