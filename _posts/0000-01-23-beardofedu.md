@@ -7,3 +7,5 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 "Hello!"
+
+Florida is way too hot, Chicago was hot last weekend though
